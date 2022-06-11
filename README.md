@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @moisesb12 (my name is: Moises Betancor)
+- 🌱 I am currently learning web programming. I am developing my degree project in Javascript using React, Tailwindcss, Node, Express, MongoDB and Mongoose.
+- 👀 I'm interested in learning the Python ecosystem.
+- 📫 How to contact me? You can write to my email: mb1cm13@gmail.com and I will answer you.
